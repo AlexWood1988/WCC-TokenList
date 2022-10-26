@@ -1,4 +1,4 @@
-# Avalanche Tokenlists
+# WorldCupChain Tokenlists
 
 Token Lists is a specification for lists of token metadata (e.g. address, decimals, etc.) that can be used by any dApp
 interfaces that needs one or more lists of tokens. Anyone can create and maintain a token list, as long as they follow
